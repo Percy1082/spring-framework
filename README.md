@@ -1,1 +1,1 @@
-spring framework, hibernate, jpa
+spring framework 4.3.13.RELEASE
